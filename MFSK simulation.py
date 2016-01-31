@@ -135,7 +135,7 @@ class Decoder(object):
 
 print "\nSIMULATION OF TRANSMISSION SYSTEM WITH SINUSOIDAL IMPULSES MFSK AND PARITY CHECK\n\n"
 
-# Wczytywanie danych wejściowych
+# Loadin input
 print "Provide data input"
 
 message = ""
